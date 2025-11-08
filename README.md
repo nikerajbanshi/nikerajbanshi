@@ -1,9 +1,16 @@
-## Hi there, I'm Nikesh! 👋  
+<!-- Dynamic Typing Intro -->
+<h1 align="center">
+  <a href="https://github.com/nikerajbanshi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nikesh+👋;Full+Stack+Developer+%7C+ML+Enthusiast;Lifelong+Learner+%26+Creator+🚀" alt="Typing SVG" />
+  </a>
+</h1>
 
-### 🚀 Full-Stack Developer | ML Enthusiast | Lifelong Learner  
+---
+
+### 🚀 Full-Stack Developer | MERN Stack | Lifelong Learner  
 
 I'm an aspiring **Full-Stack Developer** currently mastering the **MERN Stack**.  
-Passionate about building clean, efficient, and scalable web apps — while constantly learning and improving every day.  
+Passionate about building **clean, efficient, and scalable web apps**, while constantly learning and improving every day.  
 
 ---
 
@@ -61,20 +68,25 @@ A minimal and efficient task manager built with modern web tech for daily produc
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=nikerajbanshi&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&cache_seconds=3600" 
+    src="https://github-readme-stats.vercel.app/api?username=nikerajbanshi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
     height="160" 
     alt="Nikesh's GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikerajbanshi&layout=compact&theme=github_dark&cache_seconds=3600" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nikerajbanshi&theme=tokyonight" 
     height="160" 
-    alt="Top Languages"
+    alt="GitHub Streak"
   />
 </p>
 
+---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikerajbanshi&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ### 💡 Fun Fact  
-> "Consistency is key to becoming a great developer!** Keep coding and keep growing!"🚀
+> "Consistency is key to becoming a great developer! Keep coding and keep growing! 🚀"
